@@ -1,3 +1,5 @@
+require('@nomiclabs/hardhat-etherscan');
+
 const { ethers } = require('hardhat');
 
 async function main() {
